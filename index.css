@@ -1,0 +1,76 @@
+*{
+	color: white;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+	font-family: 'Edu SA Beginner', cursive;
+
+
+}
+
+
+
+
+
+body{
+background-image: url(file:///C:/Users/user/Documents/01FrontEndCourse/s17/images/211657.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 80vh;
+	background-attachment: fixed;
+	
+}
+
+
+.intro{
+	min-height: 90vh
+	border-radius: 1rem;
+	border: 1px solid transparent;
+	backdrop-filter: blur(1rem);
+	box-shadow: 1.3rem 1.3rem 1.3rem rgba(0,0,0, 0.01);
+	background-color: rgba(224,225,225, 0.1);
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	margin: 150px auto;
+	width: 90%;
+
+}
+
+.text{
+	font-size: 15px;
+	padding: 10px;
+}
+.lightly{
+	color: cyan;
+}
+.face{
+	float: left;
+	max-width: 520px;
+	padding: 10px
+	
+}
+
+.text h1{
+	font-size: 60px;
+
+}
+
+.Hobbies{
+	background-image: url(file:///C:/Users/user/Documents/01FrontEndCourse/s17/images/14026.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+
+.yeet{
+	min-height: 90vh
+	border-radius: 1rem;
+	border: 1px solid transparent;
+	backdrop-filter: blur(1rem);
+	box-shadow: 1.3rem 1.3rem 1.3rem rgba(0,0,0, 0.01);
+	background-color: rgba(224,225,225, 0.1);
+}
+
