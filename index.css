@@ -14,7 +14,7 @@
 
 
 body{
-background-image: url(file:///C:/Users/user/Documents/01FrontEndCourse/s17/images/211657.gif);
+background-image: url(images/211657.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height: 80vh;
@@ -58,7 +58,7 @@ background-image: url(file:///C:/Users/user/Documents/01FrontEndCourse/s17/image
 }
 
 .Hobbies{
-	background-image: url(file:///C:/Users/user/Documents/01FrontEndCourse/s17/images/14026.gif);
+	background-image: url(images/14026.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
 
